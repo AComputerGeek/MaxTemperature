@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MaxTemperature
+comment0.text=\r\n\ \r\n\ @author\:\ Amir\ Armion\ \r\n\ \r\n\ @version\:\ V.01\r\n\ \r\n
+comment1.params=parser
+comment1.target=org.apache.commons.csv.CSVRecord\ hottestInfo(org.apache.commons.csv.CSVParser)
+comment2.params=
+comment2.target=org.apache.commons.csv.CSVRecord\ hottestInfoInManyDays()
+comment3.params=
+comment3.target=void\ testHottestInfo()
+comment4.params=
+comment4.target=void\ testHottestInfoInManyDays()
+numComments=5
